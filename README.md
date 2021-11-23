@@ -12,6 +12,6 @@
 აწყობა. ახლა შინაური ცხოველები არ მყავს, მაგრამ ადრე მყავდა პატარა იხვი. იგი ძალიან საყვარელი იყო. ეს ჩემი პირველი საიტია და ვიმედოვნებ რომ მოგეწონებათ!</p>
 <h1>ნახვამდის!</h1>
 <img src="C:\Users\Usser\Desktop\ჩემი სურათები\წიპლი\120061871_373961196964615_6181524490200701376_n.jpg">
-<a href="https://github.com/anitainariani/-/blob/main/README.md">ეს არის ჩემი GitHub-ის ლინკი</a>
+<a href="file:///C:/Users/Usser/Desktop/visual%20studio%20code/Anita%231.html">ეს არის ჩემი visual studio code-ის ლინკი</a>
 </body>
 </html>
